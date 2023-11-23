@@ -1,6 +1,5 @@
 package leetcode.is_valid_paranthesis_LeetCode20;
 
-import algo.leetcode.two_sum__LeetCode1.TwoSumSolution;
 import leetcode.is_valid_paranthesis__LeetCode20.IsValidParanthesisSolution;
 import org.junit.Assert;
 import org.junit.Test;

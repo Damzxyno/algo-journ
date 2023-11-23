@@ -1,6 +1,5 @@
-package test.leetcode.two_sum__LeetCode1;
+package leetcode.two_sum__LeetCode1;
 
-import algo.leetcode.two_sum__LeetCode1.TwoSumSolution;
 import org.junit.Assert;
 import org.junit.Test;
 
