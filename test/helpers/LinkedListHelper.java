@@ -38,6 +38,15 @@ public class LinkedListHelper {
         return true;
     }
 
+    public boolean confirmLArray(int [] expected, int [] arr){
+        for (int i = 0; i < expected.length; i++){
+            if (expected[i] != arr[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
+
     public ListNode generateListNode(int ...a){
         ListNode head = new ListNode(-1);
         var curr = head;
